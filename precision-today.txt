@@ -1,0 +1,768 @@
+﻿1      THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+NEGATIVE RESPONSES  * = ALERTABLE BID, SP: SUPPORT POINTS, CONTROL COUNT: A=2,K=1 |
+==================================================================================|
+OPENER  |  RESPONSE          |  OPENER REBID        |  RESPONDER REBID            |
+----------------------------------------------------------------------------------|
+*1C:    | *1D: 0-7 HCP       | 1H*:                 | 1S*:   ACCEPT RELAY         |
+        |                    |  HEARTS OR BALANCED  | OTHER: REJECT RELAY         |
+        |                    |----------------------------------------------------|
+        |                    | 1S,2C,2D:            | PASS: SHOWS 0-4 HCP         |
+16+ HCP |                    |  5+ SUIT, 16-21 HCP, |            WITHOUT ACE.     |
+        | EXCEPTIONS:        |  NON FORCING.        | NEW SUIT: SHOWS 5-7 HCP,    |
+EXTRA   | 1) LONG MAJOR WITH |                      |  5+ LENGTH AND NO FIT       |
+VALUES  | CONCENTRATED HCP,  |                      | 1S: 4+ LENGTH AND NO FIT    |
+        | 2) ACE AND KING IN |                      | NT: AVOID THIS STRAIN       |
+        | LONG SUITS OR      |                      | RAISE MAJOR: 4-5 SP         |
+        | SAME SUIT          |                      | JUMP RAISE MAJOR: 6-7 SP    |
+        |                    |                      | SPLINTER: PERFECT HAND      |
+        |                    |                      | MINISPLINTER: 4-CARD SUPPORT|
+        |                    |----------------------------------------------------|
+        |                    | *3C,3D: VERY STRONG, | SECOND NEGATIVE?            |
+        |                    |  UNBALANCED, WITH    |                             |
+        |                    |  LONG MINOR SUIT.    |                             |
+        |                    |----------------------------------------------------|
+        |                    | *3H,3S: SOLID SUIT,  | CUEBID: ACE OR VOID         |
+        |                    |  EXTREME STRENGTH,   |    3NT: KING OR SINGLETON   |
+        |                    |  STAND-ALONE TRUMPS. |   GAME: NONE OF THE ABOVE   |
+        |                    |----------------------------------------------------|
+        |                    | *4H,4S: STRONGER     |                             |
+        |                    |  THAN NAMYATS.       |                             |
+        |                    |----------------------------------------------------|
+        |                    | 1NT: BALANCED,       | 2C: SHOWS 6-7 HCP, (16-19)  |
+        |                    |  16-19, 1ST/2ND,     |      2D:  16-17 NO MAJOR    |
+        |                    |  18-19, 3RD/4TH.     |      2H:  16-17 HEARTS      |
+        |                    |                      |      2S:  16-17 SPADES      |
+        |                    |                      |      2NT: 18 NO MAJOR       |
+        |                    |                      |      3C:  18-19 WITH MAJOR  |
+        |                    |                      |      3D:  19 NO MAJOR       |
+        |                    |                      |-----------------------------|
+        |                    |                      | 2D,2H TRANSFER: 5+ MAJOR    |
+        |                    |                      |  0-6 HCP TRANSFER THEN PASS |
+        |                    |                      |  7 HCP TRANSFER THEN INVITE |
+        |                    |                      |-----------------------------|
+        |                    |           | SUPERACCEPT BIDS SHOW 18-19 HCP,       |
+        |                    |           | 4-CARD MAJOR AND SHORTNESS             |
+        |                    |                      |   2S:  SPADE SHORTNESS      |
+        |                    |                      |  2NT:  4=3=3=3 OR 3=4=3=3   |
+        |                    |                      |   3C:  CLUB SHORTNESS       |
+        |                    |                      |   3D:  DIAMOND SHORTNESS    |
+        |                    |                      |   3H:  HEART SHORTNESS      |
+        |                    |----------------------------------------------------|
+        |                    | 2NT: 20-21 BALANCED, | PUPPET STAYMAN?             |
+        |                    | MAY HAVE 5-CARD MAJOR|                             |
+        |                    |----------------------------------------------------|
+        |                    | 3NT: 24-26 BALANCED, | 5-CARD STAYMAN?             |
+        |                    | MAY HAVE 5-CARD MAJOR|                             |
+        |-------------------------------------------------------------------------|
+        |*2H,2S: 6-CARD SUIT | 2NT: ASKS SHORTNESS, |                             |
+        |  ROBUST 4-6 HCP    |  SINGLETON OR VOID   |                             |
+        |                    |                      |                             |
+2      THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+COMPETITION TO 1C   * = ALERTABLE BID, SP: SUPPORT POINTS, CONTROL COUNT: A=2,K=1 |
+==================================================================================|
+            BIDDING WITH INTERFERENCE BIDS FROM THE OPPONENTS                     |
+OPENER |  OVERCALL  | RESPONDER                                                   |
+----------------------------------------------------------------------------------|
+*1C:   | DOUBLE,    |     PASS:  0-4 HCP WITH NO ACE.                             |
+ 16+   |  NATURAL,  |       1D:  (4 WITH ACE)5-7 HCP, ARTIFICIAL.                 |
+ HCP   |  ASPECIFIC | REDOUBLE:  8+ HCP, GENERALLY BALANCED.                      |
+       |            |    OTHER:  FRONT OF CARD.                                   |
+       |--------------------------------------------------------------------------|
+       | DOUBLE,    |     PASS:  0-4 HCP WITH NO ACE.                             |
+       |CONVENTIONAL|       1D:  (4 WITH ACE)5-7 HCP, ARTIFICIAL.                 |
+       |            |      1NT:  STOP BOTH MAJORS, WHEN DOUBLE SHOWS MAJORS.      |
+       |            | REDOUBLE:  8+ HCP, GENERALLY BALANCED.                      |
+       |            |    OTHER:  FRONT OF CARD.                                   |
+       |--------------------------------------------------------------------------|
+       |  SUIT,     |     PASS:  0-4 HCP WITH NO ACE OR TRAP PASS.                |
+       |   NATURAL  | NEW SUIT:  NATURAL, 5+ CARD SUIT, GAME FORCING.             |
+       |            |   CUEBID:  BALANCED, NO STOPPER, GAME FORCING.              |
+       |            |    OTHER:  FRONT OF CARD.                                   |
+       |            |-------------------------------------------------------------|
+       |            |  *DOUBLE:           | SUBSEQUENT REBID: LONG SUIT,          |
+       |            |    5+ HCP BALANCED  |  UNBALANCED                           |
+       |            |    OR 5-8 HCP       |                                       |
+       |            |    UNBALANCED       |                                       |
+==================================================================================|
+
+        INTERFERING CONVENTION REFERENCE - TYPICAL STRUCTURES                     |
+==================================================================================|
+       | MATHE      | DOUBLE:  4-4 OR BETTER MAJORS.                              |
+       | CONVENTION |    1NT:  4-4 OR BETTER MINORS.                              |
+       |--------------------------------------------------------------------------|
+       | TRUSCOTT   |               1D:  4-4 OR BETTER DIAMONDS AND HEARTS.       |
+       | CONVENTION |               1H:  4-4 OR BETTER HEARTS AND SPADES.         |
+       |            |               1S:  4-4 OR BETTER SPADES AND CLUBS.          |
+       |            |               2C:  4-4 OR BETTER CLUBS AND DIAMONDS.        |
+       |            |    DIRECT DOUBLE:  4-4 OR BETTER ROUNDED. H+C               |
+       |            |       DIRECT 1NT:  4-4 OR BETTER POINTED. S+D               |
+       |            | 1C-(P)-1D DOUBLE:  4-4 OR BETTER POINTED. S+D               |
+       |            |    1C-(P)-1D 1NT:  4-4 OR BETTER ROUNDED. H+C               |
+       |--------------------------------------------------------------------------|
+       | CRASH      |    DIRECT DOUBLE:  4-4 OR BETTER SAME COLOR. S+C OR H+D     |
+       | CONVENTION |               1D:  4-4 OR BETTER SAME RANK.  S+H OR D+C     |
+       |   (COLOR,  |       DIRECT 1NT:  4-4 OR BETTER SAME SHAPE. S+D OR H+C     |
+       |    RANK,   |               1H:  SINGLE-SUITED.                           |
+       |    SHAPE)  |               1S:  SINGLE-SUITED.                           |
+       |            |               2C:  SINGLE-SUITED.                           |
+       |            |               2D:  SINGLE-SUITED.                           |
+       |            | 1C-(P)-1D DOUBLE:  4-4 OR BETTER SAME COLOR. S+C OR H+D     |
+       |            |    1C-(P)-1D 1NT:  4-4 OR BETTER SAME RANK.  S+H OR D+C     |
+       |            |     1C-(P)-1D 2C:  4-4 OR BETTER SAME SHAPE. S+D OR H+C     |
+==================================================================================|
+
+
+
+
+
+
+3      THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+POSITIVE RESPONSES  * = ALERTABLE BID, SP: SUPPORT POINTS, CONTROL COUNT: A=2,K=1 |
+==================================================================================|
+OPENER  |  RESPONSE          |  OPENER REBID       |  RESPONDER REBID             |
+*1C     |-------------------------------------------------------------------------|
+        | *1NT: 8-13 HCP,    |*2C: STAYMAN         |*2D: 8-10 HCP, 4 HEARTS       |
+16+ HCP |   BALANCED,        |                     |*2H: 8-10 HCP, 4 SPADES       |
+        |   POSSIBLE POOR    | (TRANSFER STAYMAN   |*2S: 8-10 HCP, NO 4-CARD MAJOR|
+        |   5-3-3-2 MINOR    |  WIH 8-10)          | SHOW 11-13 HCP AND           |
+        |                    |                     |*2NT: ANY 4-3-3-3 SHAPE       |
+        |                    |                     |*3C: 4-4 CLUBS AND HIGHER     |
+        |                    |                     |*3D: 4-4 DIAMONDS AND HEARTS  |
+        |                    |                     |*3H: 4-4 HEARTS AND SPADES    |
+        |                    |                     |*3S: 4-4 SPADES AND DIAMONDS  |
+        |                    |                     |*3NT: POOR 5-3-3-2 MINOR      |
+        |                    |----------------------------------------------------|
+        |                    | *2D,*2H,*2S,*2NT(C):|*1STEP: 0-3, POOR SUPPORT     |
+        |                    | 5+ SUIT,            |*2STEP: 4+, POOR SUPPORT      |
+        |                    | SUPPORT ASKING BIDS |*3STEP: 0-3, GOOD SUPPORT     |
+        |                    |                     |*4STEP: 4+, 4-CARD SUPPORT    |
+        |                    |----------------------------------------------------|
+        |                    | 3D,3H,3S,3C:        | NATURAL OR ASKING BIDS?      |
+        |                    | VERY STRONG SUIT    |                              |
+        |                    | AND SLAM INTEREST   |                              |
+        |                    |----------------------------------------------------|
+        |                    | 3NT: TO PLAY        |                              |
+        |-------------------------------------------------------------------------|
+        | *2NT: 14+ HCP,     | 3D,3H,3S,3NT(C):    |                              |
+        |   BALANCED,        | SHOW 5-CARD SUIT    |                              |
+        |   NO 5-CARD SUIT,  |                     |                              |
+        |   FORCING TO 4NT   |*3C: BARON           | 3D: 4-CARD DIAMONDS          |
+        |                    | ASKING PARTNER TO   | 3H: 4-CARD HEARTS            |
+        |                    | BID 4-CARD SUITS    | 3S: 4-CARD SPADES            |
+        |                    | UP THE LINE         | 3NT: 4-CARD CLUBS            |
+        |                    |----------------------------------------------------|
+        |                    |*3NT: ASKING RANGE   | *4C: 14-15 HCP               |
+        |                    |                     | *4D: 16-17 HCP               |
+        |                    |                     | *4H: 18-19 HCP               |
+        |                    |                     | *4S: 20-21 HCP               |
+        |                    |                     | *4NT:22-23 HCP               |
+        |                    |                     | *5C: 24-25 HCP               |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4      THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+POSITIVE RESPONSES  * = ALERTABLE BID, SP: SUPPORT POINTS, CONTROL COUNT: A=2,K=1 |
+==================================================================================|
+*1C:    |*3C,3D: SINGLETON,  |*3D ASKING OVER 3C   |*3H: CLUB SINGLETON           |
+        |  SAME COLOR BID,   |                     |*3S: SPADE SINGLETON          |
+16+ HCP |  USUALLY 8-13 HCP  |----------------------------------------------------|
+        |                    |*3H ASKING OVER 3D   |*3S: DIAMOND SINGLETON        |
+        |  HANDS NOT GOOD    |                     |*3NT: HEART SINGLETON         |
+        |  ENOUGH FOR THE    |----------------------------------------------------|
+        |  BIDS BELOW        |           |*OPENER BIDS SINGLETON SUIT TO ASK FOR  |
+        |                    |           |  CONTROL COUNT:                        |
+        | UNUSUAL POSITIVE   |                     |*1STEP: 0-2 (A, K, NIL)       |
+        |                    |                 --> |*2STEP: 3   (AK, KKK)         |
+        |                    |                     |*3STEP: 4   (AA, AKK, KKKK)   |
+        |                    |                     |*4STEP: 5   (AAK, AKKK)       |
+        |-------------------------------------------------------------------------|
+        |*3H,3NT,4C,4D:      |*BID SINGLETON SUIT  |*1STEP: 4 (AA, AKK, KKKK)     |
+        |  4-4-4-1 WITH      | TO ASK FOR CONTROL  |*2STEP: 5 (AAK, AKKK)         |
+        |  SINGLETON ABOVE,  | COUNT               |*3STEP: 6 (AAA, AAKK)         |
+        |  4+ CONTROL COUNT, |                     |*4STEP: 7 (AAAK, AAKKK)       |
+        |  USUALLY 12+ HCP   |                     |*5STEP: 8 (AAAA, AAAKK)       |
+==================================================================================|
+*1C:    |*3S: SOLID 7- 0R    | OPENER INFERS SUIT, | *4D:  0                      |
+        |  8-CARD SUIT,      | *4C: ASKING OUTSIDE | *4H:  1 (K)                  |
+16+ HCP |  AKQJXXX OR        | CONTROL COUNT       | *4S:  2 (A OR KK)            |
+        |  AKQXXXXX          |                     | *4NT: 3 (AK OR KKK)          |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5      THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+POSITIVE RESPONSES  * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
+==================================================================================|
+OPENER  |  RESPONSE          |  OPENER REBID       |  RESPONDER REBID             |
+        |-------------------------------------------------------------------------|
+*1C:    | 1H,1S,2C,2D:       | BALANCED 16-19 HCP  |                              |
+        | 8+ HCP, 5+ SUIT    | (DOES NOT DENY SUPPORT)                            |
+        |                    |*1NT- (OVER 1H,1S)   |                              |
+16+ HCP |                    |*2NT- (OVER 2C,2S)   |                              |
+        |                    | BALANCED 20-21 HCP  |                              |
+        |                    | (DOES NOT DENY SUPPORT)                            |
+        |                    |*2NT- (OVER 1H,1S)   |                              |
+        |                    |*3NT- (OVER 2C,2S)   |                              |
+        |                    |----------------------------------------------------|
+        |                    | NEW SUIT            | ASKING BIDS OFF              |
+        |                    |----------------------------------------------------|
+        |                    |*SGL RAISE OF PARTNER|*1STEP: 0, 5+ SUIT            |
+        |                    |   ASKS FOR NO. OF   |*2STEP: 1, 5   "              |
+        |                    |   TOP HONORS HELD,  |*3STEP: 2, 5   "              |
+        |                    |   TRUMP ASKING BID. |*4STEP: 1, 6+  "              |
+        |                    |                     |*5STEP: 2, 6+  "              |
+        |                    |                     |*6STEP: 3, 5+ SUIT            |
+        |                    |----------------------------------------------------|
+        |                    |*REPEAT TAB WITH 0/3 |*1STEP: 7-CARD SUIT           |
+        |                    | TOP HONORS - SHOW   |*2STEP: 6-CARD SUIT           |
+        |                    | LENGTH              |*3STEP: 5-CARD SUIT           |
+        |                    |----------------------------------------------------|
+        |                    |*REPEAT TAB WITH 1   |*1STEP: ACE                   |
+        |                    | TOP HONOR - SHOW    |*2STEP: KING                  |
+        |                    | THE HONOR           |*3STEP: QUEEN                 |
+        |                    |----------------------------------------------------|
+        |                    |*REPEAT TAB WITH 2   |*1STEP: ACE KING              |
+        |                    | TOP HONORS - SHOW   |*2STEP: ACE QUEEN             |
+        |                    | BOTH HONORS         |*3STEP: KING QUEEN            |
+        |                    |----------------------------------------------------|
+        |                    |                     |OVER INTEFERENCE BIDS:        |
+        |                    |                     | DBL=1STEP, PASS=2STEP,       |
+        |                    |                     | STEP BIDDING GOES ON         |
+        |                    |                     | FROM THERE.                  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+6      THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+RESPONSES TO 1D     * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
+==================================================================================|
+OPENER  |  RESPONSE          |  OPENER REBID       |  RESPONDER REBID             |
+        |-------------------------------------------------------------------------|
+1D:     | 1H,1S: 4+ SUIT,    |                     |                              |
+11-16   | USUALLY 6+ HCP     |                     |                              |
+HCP     |-------------------------------------------------------------------------|
+        | 1NT: 8-10 HCP,     |                     |                              |
+*MAY BE | TENDS TO DENY (TTD)|                     |                              |
+ AS FEW | 4-CARD MAJOR       |                     |                              |
+ AS TWO |-------------------------------------------------------------------------|
+        | 2C: 5+ SUIT, GF    |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2D: LIMIT RAISE OR |                     |                              |
+        | BETTER             |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2H,2S: STRONG JUMP |                     |                              |
+        | SHIFT              |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2H,2S: WEAK JUMP   |                     |                              |
+        | SHIFT              |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2H: 4+ HEARTS,     |                     |                              |
+        | 5+ SPADES, TO PLAY |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2S: 4+ HEARTS,     |                     |                              |
+        | 5+ SPADES, GI      |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2NT: 11-12 HCP,    |                     |                              |
+        | TTD 4-CARD MAJOR   |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3C: STRONG JUMP    |                     |                              |
+        | SHIFT              |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3C: WEAK JUMP      |                     |                              |
+        | SHIFT              |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3C: INVITATIONAL   |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3D: PREEMPTIVE,    |                     |                              |
+        | 5+ LENGTH, USUALLY |                     |                              |
+        | SINGLETON OR VOID  |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3H,3S: SPLINTER    |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3NT: 13-15 HCP,    |                     |                              |
+        | TENDS TO DENY      |                     |                              |
+        | 4-CARD MAJOR       |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 4C: SPLINTER       |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 4D: WEAK, MORE     |                     |                              |
+        | SHAPE AND LENGTH   |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 4H,4S: SINGLE SUIT |                     |                              |
+        | NO SLAM INTEREST   |                     |                              |
+
+
+7      THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+RESPONSES TO 1H     * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
+==================================================================================|
+OPENER  |  RESPONSE          |  OPENER REBID       |  RESPONDER REBID             |
+        |-------------------------------------------------------------------------|
+1H:     | 1S: 4+ SUIT,       |                     |                              |
+11-15   | USUALLY 6+ HCP     |                     |                              |
+HCP     |-------------------------------------------------------------------------|
+        | 1NT: 8-10 HCP,     |                     |                              |
+        | TTD 4-CARD MAJOR   |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2C,2D: 5+ SUIT, GF |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2H: RAISE 6-9 HCP  |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2S: 4+ HEARTS,     |                     |                              |
+        | 5+ SPADES, GI      |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2NT: 11-12 HCP,    |                     |                              |
+        | TTD 4-CARD MAJOR   |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3C,3D: WEAK JUMP   |                     |                              |
+        | SHIFT              |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3H: GOOD 9-11 WITH |                     |                              |
+        | 4 HEARTS, GI       |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3S,4C,4D: SPLINTER |                     |                              |
+        | 4+ HEARTS, SI      |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3NT: STOPPERS, ANY |                     |                              |
+        | 4-3-3-3 (3 HEARTS) |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 4H: TO PLAY        |                     |                              |
+        | NO SLAM INTEREST   |                     |                              |
+==================================================================================|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8      THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+RESPONSES TO 1S     * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
+==================================================================================|
+1S:     | 1NT: 8-10 HCP      |                     |                              |
+11-15   |-------------------------------------------------------------------------|
+HCP     | 2C,2D,2H:          |                     |                              |
+        | 5+ SUIT, GF        |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2S: RAISE 6-9 HCP  |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2NT: 11-12 HCP     |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3C,3D,3H:          |                     |                              |
+        | WEAK JUMP SHIFT    |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3S: GOOD 9-11 WITH |                     |                              |
+        | 4 SPADES, GI       |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3NT: STOPPERS, ANY |                     |                              |
+        | 4-3-3-3 (3 SPADES) |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 4C,4D,4H: SPLINTER |                     |                              |
+        | 4+ SPADES,SI       |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 4S: TO PLAY        |                     |                              |
+        | NO SLAM INTEREST   |                     |                              |
+==================================================================================|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9             THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS |
+RESPONSES TO *2C    * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
+----------------------------------------------------------------------------------|
+Opener shows 11-15 HCP with 6+ clubs                                              |
+==================================================================================|
+OPENER  |  RESPONSE          |  OPENER REBID       |  RESPONDER REBID             |
+        |-------------------------------------------------------------------------|
+2C:     | 2D: 4+ SUIT,       |                     |                              |
+11-15   | USUALLY 6+ HCP     |                     |                              |
+HCP     |-------------------------------------------------------------------------|
+        | 2H: 8-10 HCP,      |                     |                              |
+        | TTD 4-CARD MAJOR   |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2S: 5+ SUIT, GF    |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 2NT: 11-12 HCP,    |                     |                              |
+        | TTD 4-CARD MAJOR   |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3C: WEAK JUMP      |                     |                              |
+        | SHIFT              |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3D: STRONG,6+ SUIT |                     |                              |
+        | 12+ HCP            |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3H: STRONG,6+ SUIT |                     |                              |
+        | 12+ HCP            |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3S: STRONG,6+ SUIT |                     |                              |
+        | 12+ HCP            |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 3NT: STOPPERS, ANY |                     |                              |
+        | 4-3-3-3 (3 HEARTS) |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 4C: WEAK JUMP      |                     |                              |
+        | SHIFT              |                     |                              |
+        |-------------------------------------------------------------------------|
+        | 4D: ACE ASKING BID |                     |                              |
+==================================================================================|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+10     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+NO TRUMP PROTOCOL   * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
+==================================================================================|
+AUCTION                      |  RESPONDER REBID    |  OPENER REBID                |
+==================================================================================|
+2NT*: 6-11 HCP               | 3C/3D: TO PLAY      |                              |
+      5-5 MINORS             | 3H*: CLUBS          |                              |
+                             | 3S*: DIAMONDS       |                              |
+                             | 4C/4D: PRE-EMPTIVE  |                              |
+-----------------------------|---------------------|------------------------------|
+1NT: 11-13 HCP               |                     |                              |
+     1ST/2ND                 |                     |                              |
+-----------------------------|---------------------|------------------------------|
+1D-1H/1S; 1NT*: 14-16 HCP    |                     |                              |
+                1ST/2ND      |                     |                              |
+-----------------------------|---------------------|------------------------------|
+1NT: 15-17 HCP               |                     |                              |
+     3RD/4TH                 |                     |                              |
+==================================================================================|
+AUCTION |  OPENER REBID      |  RESPONDER REBID    |  OPENER REBID                |
+==================================================================================|
+1C*-1D* | 1NT: 17-19 1ST/2ND |                     |                              |
+        |      18-19 3RD/4TH |                     |                              |
+        |--------------------|---------------------|------------------------------|
+        | 1H*: FORCING,      | 1S*: FORCED,        | 1NT: 20-21 HCP               |
+        |      HEARTS OR     |      ARTIFICIAL,    |                              |
+        |      20-21 HCP     |      ACCEPT KOKISH  |                              |
+        |      24-25 HCP     |      STYLE RELAY    |                              |
+        |      BALANCED      |                     |------------------------------|
+        |                    |                     | 2NT: 24-25 HCP               |
+        | KOKISH STYLE       |---------------------|------------------------------|
+        |                    | REFUSING THE 1H* RELAY                             |
+        |                    | 1NT*: 5-5 MAJORS, VERY WEAK (0-4)                  |
+        |                    | 2C* : 6-CARD SUIT, VERY WEAK (0-4)                 |
+        |                    | 2D* : 6-CARD SUIT, VERY WEAK (0-4)                 |
+        |                    | 2H* : 6-CARD SUIT, VERY WEAK (0-4)                 |
+        |                    | 2S* : 6-CARD SUIT, VERY WEAK (0-4)                 |
+        |                    | 2NT*: 5-5 MINORS, WEAK                             |
+        |                    | 3C* : 7-CARD SUIT, VERY WEAK (0-4)                 |
+        |                    | 3D* : 7-CARD SUIT, VERY WEAK (0-4)                 |
+        |                    | 3H* : 7-CARD SUIT, VERY WEAK (0-4)                 |
+        |                    | 3S* : 7-CARD SUIT, VERY WEAK (0-4)                 |
+        |--------------------|---------------------|------------------------------|
+        | 2NT: 22-23 HCP     |                     |                              |
+        |      BALANCED      |                     |                              |
+        |--------------------|---------------------|------------------------------|
+        | 2H*: GAME FORCING, | 2S*: FORCED,        | 2NT: 26-27 HCP               |
+        |      HEARTS OR NT  |      ARTIFICIAL     |                              |
+        |      26-27 HCP     |                     |                              |
+        |      BALANCED      |                     |                              |
+==================================================================================|
+
+
+
+
+
+
+
+
+11     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+RESPONSES TO *2D    * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
+----------------------------------------------------------------------------------|
+Opener shows 11--15 HCP and a singleton or void in the Diamond suit.              |
+Possible holdings then are 4=4=1=4, 4=4=0=5, 3=4=1=5 or 4=3=1=5.                  |
+==================================================================================|
+|  Response          |  Opener Rebid                |  Responder Rebid            |
+|--------------------|------------------------------|-----------------------------|
+| 2H,2S,3C: to play  |  Pass                        |                             |
+| no game interest   |                              |                             |
+|--------------------|------------------------------|-----------------------------|
+| *3D: asking bid    | *1 step: 0-2 (A, K, nil)     |                             |
+| control count      | *2 step: 3   (AK, KKK)       |                             |
+| slam invite        | *3 step: 4   (AA, AKK, KKKK) |                             |
+|                    | *4 step: 5   (AAK, AKKK)     |                             |
+|                    | *and so on                   |                             |
+|--------------------|------------------------------|-----------------------------|
+| 3H,3S: 4+ suit, GI |                              |                             |
+|--------------------|------------------------------|-----------------------------|
+| 3NT,4H,4S,5C:      |                              |                             |
+| good hand, to play |                              |                             |
+|--------------------|------------------------------|-----------------------------|
+| *2NT: 8+ HCP,      |  *3C: 11-15 HCP 3=4=1=5      | *3D and *4D:                |
+| asking bid         |  *3D: 11-15 HCP 4=3=1=5      | asking bid for              |
+|                    |  *3H: 11-13 HCP 4=4=1=4      | control count,              |
+|                    |  *3S: 14-15 HCP 4=4=1=4      | slam invite                 |
+|                    |  *4C: 11-13 HCP 4=4=0=5      |                             |
+|                    |  *4D: 14-15 HCP 4=4=0=5      |                             |
+|                    | *3NT: 14-15 HCP singleton A/K|                             |
+|--------------------|------------------------------|-----------------------------|
+
+
+
+==================================================================================|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+
+Helen's Tips
+
+ 1. No hand makes 2NT. Either it plays 1NT or 3NT.
+ 2. Do not make a takeout double with 3-small or Qxx of RHO's bid suit.
+    A takeout double shows the other 3 suits.
+ 3. Do not open the bidding on a bad hand with a bad suit.
+ 4. Do not place cards in your partner's hand. They are not there.
+ 5. Do not lead the 2 from 4-small. Guarantee an honor when you lead a low card.
+
+ 6. Do not abuse or misuse systems. If you forget or do not understand a system,
+    strike it off your card.
+ 7. Do not rescue the opponents. Why do you have to bid when you have their suit?
+ 8. Do not preempt. If you can't make it, why bid it?
+ 9. Do not make frivolous cue bids. Cue bid aces, not deuces.
+10. Do not claim the remainder of the tricks. Play out to the end.
+    You cannot win by claiming. You either lose or break even.
+
+11. Do not try to copy someone's style. You can't.
+    Play your own game and use your own good judgment.
+12. I bid the suits I have, not the suits I don't have.
+13. When I have good cards, I bid a lot. When I have bad cards, I pass.
+14. I never take the push to 3 of a major.
+    I double the opponents or I bid 4 of my major.
+15. I lead the Q from dummy. If they don't cover, they don't have the K.
+
+16. The lead of the J from Jx is the worst lead in bridge,
+    even in partner's bid suit. If you must lead this suit, lead the small card.
+17. If I want to be saved (from a doubled contract), I'll go to church!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+
+Other Agreements Of Our System
+
+ 1. A voluntary bid of 5H or 5S invites slam:
+    * 1S-3S; 5S -- how good are your trumps partner?
+    * 1D-1H; 1S-3S; 5S -- do you have 1st or 2nd round control of unbid suit?
+    * 1S-(3H)-5S -- do you have 1st or 2nd round control of opps suit?
+ 2. Opening 5S or 5H -- have the A or K of trumps?
+ 3. Unusual jump to 5NT -- got 2 of the 3 top honors bid 7, else bid 6.
+ 4. A lead of against NT asks partner for highest card.
+ 5. Q lead against NT asks partner to unblock the J.
+
+ 6. Double of a strongly bid 3NT asks for an unusual lead,
+    e.g., lead a short suit in which you have no honors.
+ 7. Nonstandard agreements apply only to the opening lead –
+    in the middle of a hand revert to standard, e.g., lead K from AK.
+ 8. Although we never lead away from an A on the opening lead (in a suit contract),
+    we may well do so in the middle of a hand.
+ 9. When partner passes your takeout double, converting to penalty,
+    you are expected to lead a trump.
+10. New suits by partner of a preemptor are forcing, including weak twos.
+
+11. To sign off at 5NT after a Blackwood sequence,
+    bid a new suit after the ace-showing response, asking partner to bid 5NT.
+12. Both sides do not preempt on the same hand.
+    A jump overcall of a preemptive bid is strong with about 20 HCP and 6 length.
+13. A 2NT overcall of a weak-two bid is not the unusual Notrump
+    nor is a jump to 3NT.
+14. To show a void in standard Blackwood, make your response at the six-level,
+    rather than the five-level. Show only useful voids in unbid or enemy suits.
+15. 5NT following Blackwood 4NT guarantees possession of all four aces;
+    partner may bid a grand slam on his own armed with that knowledge.
+
+16. If in doubt whether 4C is Gerber or Stayman, it is Stayman.
+17. All bids, jump or not, by responder are non-forcing after partner opens
+    and RHO doubles. Responder is limited -- he did not redouble or use Jordan 2NT.
+18. When your side voluntarily bid game and opps bid over you,
+    pass by either you or partner is forcing, either double or bid.
+19. All doubles of slams are lead-directing.
+20. If partner leads the K and you follow with the Q,
+    you promise you can win the next trick.
+
+==================================================================================|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
