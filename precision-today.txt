@@ -477,11 +477,11 @@ Opener shows 11-15 HCP with 6+ clubs                                            
 ==================================================================================|
 OPENER  |  RESPONSE          |  OPENER REBID       |  RESPONDER REBID             |
         |-------------------------------------------------------------------------|
-2C:     | 2D: ARTIFICIAL,    | 2H/2S: 4-CARD SUIT                 |               |
+2C*:    | 2D: ARTIFICIAL,    | 2H/2S: 4-CARD SUIT                 |               |
 11-15   | FORCING            | 2NT: 11-13 SEMI-BALANCED           |               |
-HCP     |                    | 3C*: UNBALANCED                    |               |
-        |                    | 3D*: 4 OR 5 DIAMONDS               |               |
-        |                    | 3H*: 5+HEARTS, 6+CLUBS             |               |
+HCP,    |                    | 3C*: UNBALANCED                    |               |
+NATURAL |                    | 3D*: 4 OR 5 DIAMONDS               |               |
+6+SUIT  |                    | 3H*: 5+HEARTS, 6+CLUBS             |               |
         |                    | 3S*: SOLID CLUBS OR 14-15 SEMI-BAL.|               |
         |                    | 3NT*: 5+SPADES, 6+CLUBS            |               |
         |-------------------------------------------------------------------------|
@@ -490,8 +490,9 @@ HCP     |                    | 3C*: UNBALANCED                    |             
         | CONSTRUCTIVE,      |                     |                              |
         | WEAKER W/CLUB FIT  |                     |                              |
         |-------------------------------------------------------------------------|
-        | 2NT: 10-11 HCP,    |                     |                              |
-        | INVITATIONAL       |                     |                              |
+        | 2NT: 10-11 HCP,    | PASS: DECLINE INVITE     |                         |
+        | INVITATIONAL       | 3C: DECLINE INVITATION   |                         |
+        |                    | 3H/3S: ON THE WAY TO 3NT |                         |
         |-------------------------------------------------------------------------|
         | 3C: PRE-EMPTIVE    |                     |                              |
         | TO PLAY            |                     |                              |
