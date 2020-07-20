@@ -508,25 +508,22 @@ NATURAL |                    | 3D*: 4 OR 5 DIAMONDS               |             
         | 4C: PRE-EMPTIVE    |                     |                              |
         | TO PLAY            |                     |                              |
         |-------------------------------------------------------------------------|
-        | 4D: RKC MINORWOOD  | 4H: 1 OR 4 KEY CARDS    |                          |
-        | IN CLUBS           | 4S: 0 OR 3 KEY CARDS    |                          |
+        | 4D: 1430 RKC       | 4H: 1 OR 4 KEY CARDS    |                          |
+        | KICKBACK IN CLUBS  | 4S: 0 OR 3 KEY CARDS    |                          |
         |                    | 4NT: 2 KEYS W/O TRUMP Q |                          |
         |                    | 5C: 2 KEYS W/TRUMP Q    |                          |
         |-------------------------------------------------------------------------|
         | 4H/4S: TO PLAY     |                     |                              |
         | NO SLAM INTEREST   |                     |                              |
 ==================================================================================|
-
-
-
-
-
-
-
-
-
-
-
+INTERFERENCE     | TREATMENT                                                      |
+----------------------------------------------------------------------------------|
+2ND HAND DOUBLES | SYSTEMS ON                                                     |
+                 | XX: SHOWS 10+ PENALTY INTEREST                                 |
+----------------------------------------------------------------------------------|
+OPPS BID         | NEGATIVE DOUBLES                                               |
+                 | RESPONDER'S SUIT BID IS FORCING                                |
+==================================================================================|
 
 
 
