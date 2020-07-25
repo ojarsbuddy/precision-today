@@ -483,16 +483,16 @@ HCP,    |                    | 3C*: UNBALANCED                    |             
 NATURAL |                    | 3D*: 4 OR 5 DIAMONDS               |               |
 6+SUIT  |                    | 3H*: 5+HEARTS, 6+CLUBS             |               |
         |                    | 3S*: SOLID CLUBS OR 14-15 SEMI-BAL.|               |
-        |                    | 3NT*: 5+SPADES, 6+CLUBS            |               |
         |-------------------------------------------------------------------------|
-        | 2H/2S: 8-POOR 10,  |                     |                              |
-        | 5+CARD SUIT,       |                     |                              |
+        | 2H/2S: 8-POOR 10,  | SING/VOID: REBID CLUBS                    |                              |
+        | 5+CARD SUIT,       | DOUBLETON:                     |                              |
         | CONSTRUCTIVE,      |                     |                              |
         | WEAKER W/CLUB FIT  |                     |                              |
         |-------------------------------------------------------------------------|
-        | 2NT: 10-11 HCP,    | PASS: DECLINE INVITE     |                         |
-        | INVITATIONAL       | 3C: DECLINE INVITATION   |                         |
-        |                    | 3H/3S: ON THE WAY TO 3NT |                         |
+        | 2NT: 10-11 HCP,    | PASS: DECLINE INVITE      |                        |
+        | INVITATIONAL       | 3C: DECLINE INVITE, 11-13 |                        |
+        |                    | 3H/3S: ON THE WAY TO 3NT  |                        |
+        |                    | 3NT: 14-15 HCP            |                        |
         |-------------------------------------------------------------------------|
         | 3C: PRE-EMPTIVE    |                     |                              |
         | TO PLAY            |                     |                              |
@@ -532,21 +532,28 @@ OPPS BID         | NEGATIVE DOUBLES                                             
 10     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
 NO TRUMP PROTOCOL   * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
 ==================================================================================|
-AUCTION                      |  RESPONDER REBID    |  OPENER REBID                |
+AUCTION                      |  RESPONDER REBID      |  OPENER REBID              |
 ==================================================================================|
-2NT*: 6-11 HCP               | 3C/3D: TO PLAY      |                              |
-      5-5 MINORS             | 3H*: CLUBS          |                              |
-                             | 3S*: DIAMONDS       |                              |
-                             | 4C/4D: PRE-EMPTIVE  |                              |
------------------------------|---------------------|------------------------------|
-1NT: 11-13 HCP               |                     |                              |
-     1ST/2ND                 |                     |                              |
------------------------------|---------------------|------------------------------|
-1D-1H/1S; 1NT*: 14-16 HCP    |                     |                              |
-                1ST/2ND      |                     |                              |
------------------------------|---------------------|------------------------------|
-1NT: 15-17 HCP               |                     |                              |
-     3RD/4TH                 |                     |                              |
+2NT*: 5-5 MINORS             | 3C/3D/3S/3NT: TO PLAY |                            |
+      4-8 HCP NONVUL         | 4C/4D: PRE-EMPTIVE    |                            |
+      8-12 HCP VUL           | 4H/4S/5C/5D: TO PLAY  |                            |
+                             |-----------------------|----------------------------|
+                             | 3H*: ASKING BID       | 3S*: 5-5, MIN 4-6 OR 8-10  |
+                             |                       | 3NT*: 5-5, MAX 7-8 OR 11-12|
+                             |                       | 4C*: 6 CLUBS 5 DIAMS, MIN  |
+                             |                       | 4D*: 6 DIAMS 5 CLUBS, MIN  |
+                             |                       | 4H*: 6 CLUBS 5 DIAMS, MAX  |
+                             |                       | 4S*: 6 DIAMS 5 CLUBS, MAX  |
+                             |                       | 4NT*: 6-6 MINORS           |
+-----------------------------|-----------------------|----------------------------|
+1NT: 11-13 HCP               |                       |                            |
+     1ST/2ND                 |                       |                            |
+-----------------------------|-----------------------|----------------------------|
+1D-1H/1S; 1NT*: 14-16 HCP    |                       |                            |
+                1ST/2ND      |                       |                            |
+-----------------------------|-----------------------|----------------------------|
+1NT: 15-17 HCP               |                       |                            |
+     3RD/4TH                 |                       |                            |
 ==================================================================================|
 AUCTION |  OPENER REBID      |  RESPONDER REBID    |  OPENER REBID                |
 ==================================================================================|
@@ -580,13 +587,6 @@ AUCTION |  OPENER REBID      |  RESPONDER REBID    |  OPENER REBID              
         |      26-27 HCP     |                     |                              |
         |      BALANCED      |                     |                              |
 ==================================================================================|
-
-
-
-
-
-
-
 
 11     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
 RESPONSES TO *2D    * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
