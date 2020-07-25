@@ -484,8 +484,8 @@ NATURAL |                    | 3D*: 4 OR 5 DIAMONDS               |             
 6+SUIT  |                    | 3H*: 5+HEARTS, 6+CLUBS             |               |
         |                    | 3S*: SOLID CLUBS OR 14-15 SEMI-BAL.|               |
         |-------------------------------------------------------------------------|
-        | 2H/2S: 8-POOR 10,  | SING/VOID: REBID CLUBS                    |                              |
-        | 5+CARD SUIT,       | DOUBLETON:                     |                              |
+        | 2H/2S: 8-POOR 10,  | SING/VOID: REBID CLUBS                             |
+        | 5+CARD SUIT,       | DOUBLETON:                                         |
         | CONSTRUCTIVE,      |                     |                              |
         | WEAKER W/CLUB FIT  |                     |                              |
         |-------------------------------------------------------------------------|
@@ -750,7 +750,6 @@ Other Agreements Of Our System
     you promise you can win the next trick.
 
 ==================================================================================|
-
 
 
 
