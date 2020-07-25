@@ -470,7 +470,7 @@ HCP     | 2C,2D,2H:          |                     |                            
 
 
 
-9             THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS |
+9     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS      473|
 RESPONSES TO *2C    * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
 ----------------------------------------------------------------------------------|
 Opener shows 11-15 HCP with 6+ clubs                                              |
@@ -485,9 +485,9 @@ NATURAL |                    | 3D*: 4 OR 5 DIAMONDS               |             
         |                    | 3S*: SOLID CLUBS OR 14-15 SEMI-BAL.|               |
         |-------------------------------------------------------------------------|
         | 2H/2S: 8-POOR 10,  | SING/VOID: REBID CLUBS                             |
-        | 5+CARD SUIT,       | DOUBLETON:                                         |
-        | CONSTRUCTIVE,      |                     |                              |
-        | WEAKER W/CLUB FIT  |                     |                              |
+        | 5+CARD SUIT,       | DOUBLETON: PASS                                    |
+        | CONSTRUCTIVE,      | 3-CARD: PASS UNLESS MAX W/SHAPE OR TRICKS SOURCE   |
+        | WEAKER W/CLUB FIT  | 4-CARD: SUPPORT OR BID GAME                        |
         |-------------------------------------------------------------------------|
         | 2NT: 10-11 HCP,    | PASS: DECLINE INVITE      |                        |
         | INVITATIONAL       | 3C: DECLINE INVITE, 11-13 |                        |
@@ -529,7 +529,7 @@ OPPS BID         | NEGATIVE DOUBLES                                             
 
 
        
-10     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+10    THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS      532|
 NO TRUMP PROTOCOL   * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
 ==================================================================================|
 AUCTION                      |  RESPONDER REBID      |  OPENER REBID              |
@@ -588,7 +588,7 @@ AUCTION |  OPENER REBID      |  RESPONDER REBID    |  OPENER REBID              
         |      BALANCED      |                     |                              |
 ==================================================================================|
 
-11     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+11    THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS      591|
 RESPONSES TO *2D    * = ALERTABLE BID  SP: SUPPORT POINTS  CONTROL COUNT: A=2,K=1 |
 ----------------------------------------------------------------------------------|
 Opener shows 11--15 HCP and a singleton or void in the Diamond suit.              |
@@ -647,7 +647,8 @@ Possible holdings then are 4=4=1=4, 4=4=0=5, 3=4=1=5 or 4=3=1=5.                
 
 
 
-12     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+12    THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS      650|
+----------------------------------------------------------------------------------|
 
 Helen's Tips
 
@@ -705,8 +706,8 @@ Helen's Tips
 
 
 
-
-13     THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS        |
+13    THE NEW PRECISION BIDDING SYSTEM AS IMPLEMENTED BY BENAMATI/BORTINS      709|
+----------------------------------------------------------------------------------|
 
 Other Agreements Of Our System
 
@@ -750,7 +751,6 @@ Other Agreements Of Our System
     you promise you can win the next trick.
 
 ==================================================================================|
-
 
 
 
